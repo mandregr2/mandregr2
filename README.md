@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Mário André Rodriguez bussiness developer @ A2Software Ltda
+- 👋 Hi, I’m Mário André Rodriguez software developer @ Tramontina, bussiness developer @ A2Software Ltda
 - 👀 I’m interested in all type of technologies
-- 🌱 I’m currently learning development in Java and PHP
+- 🌱 I’m work with development in Java, PHP, C#, Genero, Javascript, Jquery, React, Html
 - 📫 How to reach me mandregr@gmail.com
 
 <!---
