@@ -2,7 +2,7 @@
 <h3 align='center'> A software developer and enthusiast of clean architecture best practices</h3>
 - 🔭 I`m currento working at software developer at <b>Tramontina<strong></b></br>
 - 👀 I’m interested in all type of technologies <br>
-- 🌱 I’ve worked with development in Java, PHP, C#, 4GL, Javascript, Jquery, React, Typescript, Html
+- 🌱 I’ve worked with development in Java, PHP, C#, 4GL, Javascript, Jquery, React, Node, Typescript, Html<BR>
 - 📫 How to reach me ? mandregr@icloud.com
 
 <h2>Languages</h2>
